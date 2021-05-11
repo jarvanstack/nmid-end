@@ -1,2 +1,2 @@
 # nmid-end
-example for nmid-end repository
+example for nmid-end task repository
